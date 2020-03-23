@@ -3,8 +3,11 @@
 Mechanical
 
 48x 8x7x22mm bearings (skateboard sized)
+
 M8 studding, nuts, washers
+
 24x M4 35mm socket cap bolts + lock nuts
+
 12x 35mm 10 x 1mm springs
 Various small screws
 24x 5x3mm magnets
