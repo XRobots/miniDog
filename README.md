@@ -17,7 +17,7 @@ Various small screws
 
 12x  20mm metal servo horn/hubs
 
-#Electronics
+# Electronics
 
 Teensy 3.6
 
