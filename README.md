@@ -1,5 +1,7 @@
 # miniDog
 
+CAD and code for miniDog video series: https://www.youtube.com/playlist?list=PLpwJoq86vov_qzmadB1zj6aVKObH3WbeH
+
 # Mechanical
 
 48x 8x7x22mm bearings (skateboard sized)
